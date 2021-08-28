@@ -1,0 +1,4 @@
+R5T.L0012.T002 - ProjectLoadingProgress and other MSBuild-related types.
+
+Goals
+

@@ -8,7 +8,7 @@ namespace R5T.L0012.T001
     /// <summary>
     /// Empty interface as base for extension methods.
     /// </summary>
-    [EmptyExtensionMethodBaseMarker]
+    [ExtensionMethodBaseMarker]
     public interface IMSBuildLocation
     {
     }
