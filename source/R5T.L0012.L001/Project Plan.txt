@@ -1,4 +1,0 @@
-R5T.L0012.L001 - Microsoft.Build.Locator Nuget package version selector.
-
-Goals
-

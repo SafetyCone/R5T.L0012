@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.6.30114.105
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.L0012.Construction", "R5T.L0012.Construction\R5T.L0012.Construction.csproj", "{8FE32C8C-54E0-45BA-A76B-15C8434DD035}"
 EndProject
@@ -22,6 +22,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.L0012.T002", "R5T.L0012.T002\R5T.L0012.T002.csproj", "{513027DC-5AFD-40BA-A947-813F99B12F2F}"
 EndProject
 Global
+	GlobalSection(NestedProjects) = preSolution
+		{85D19831-A2E2-4DA5-9834-0F52ED1A302A} = {4315AC19-CA00-4B7C-9AD9-7EB2EBD57D0D}
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|x64 = Debug|x64
@@ -130,9 +133,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{85D19831-A2E2-4DA5-9834-0F52ED1A302A} = {4315AC19-CA00-4B7C-9AD9-7EB2EBD57D0D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFB2D67E-D72F-43E7-A326-87F91463D122}
